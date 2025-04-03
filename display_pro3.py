@@ -5,7 +5,7 @@ from werkzeug.utils import secure_filename
 
 # Import the processing function from your actual module
 # Adjust this import to match your project structure
-from runanalyz_cpe_rmuti.count6 import process_video  # Or whatever your actual module is
+from Project.count6 import process_video  # Or whatever your actual module is
 
 app = Flask(__name__)
 
