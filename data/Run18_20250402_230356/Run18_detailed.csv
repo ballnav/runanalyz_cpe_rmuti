@@ -1,0 +1,448 @@
+Frame,Running Gait Cycle,Sub Phase,% Cycle,Trunk Lean,Front Knee Angle,Back Knee Angle,Front Hip Angle,Angle Each Body %,Result
+1,0,Initial Contact,50.0%,0.26 (Inaccurate ),22.42 (Accurate ),60.97 (Accurate ),30.7 (Accurate ),75.0 % ,Good
+2,0,Initial Contact,50.0%,0.07 (Inaccurate ),22.36 (Accurate ),60.21 (Accurate ),30.58 (Accurate ),75.0 % ,Good
+3,0,Initial Contact,50.0%,0.47 (Inaccurate ),14.4 (Accurate ),113.13 (Accurate ),23.25 (Accurate ),75.0 % ,Good
+4,0,Initial Contact,50.0%,0.75 (Inaccurate ),14.52 (Accurate ),137.81 (Inaccurate ),16.49 (Accurate ),50.0 % ,Satisfactory
+5,0,Initial Contact,60.0%,2.76 (Inaccurate ),19.31 (Accurate ),9.86 (Accurate ),13.88 (Inaccurate ),50.0 % ,Satisfactory
+6,0,Initial Contact,58.33%,6.86 (Accurate ),19.75 (Accurate ),59.34 (Accurate ),9.31 (Inaccurate ),75.0 % ,Good
+7,0,Initial Contact,57.14%,7.99 (Accurate ),13.12 (Accurate ),82.26 (Inaccurate ),1.52 (Inaccurate ),50.0 % ,Satisfactory
+8,0,Terminal Stance,37.5%,8.23 (Accurate ),7.46 (Inaccurate ),59.85 (Accurate ),5.34 (Inaccurate ),50.0 % ,Satisfactory
+9,0,Initial Contact,50.0%,6.26 (Accurate ),47.0 (Inaccurate ),27.66 (Inaccurate ),45.02 (Accurate ),50.0 % ,Satisfactory
+10,0,Initial Contact,50.0%,5.94 (Accurate ),27.93 (Accurate ),55.07 (Accurate ),40.0 (Accurate ),100.0 % ,Good
+11,0,Initial Contact,50.0%,5.71 (Accurate ),20.54 (Accurate ),80.43 (Inaccurate ),35.6 (Accurate ),75.0 % ,Good
+12,0,Initial Contact,50.0%,5.18 (Accurate ),18.08 (Accurate ),117.12 (Accurate ),29.21 (Accurate ),100.0 % ,Good
+13,0,Terminal Stance,34.62%,5.14 (Accurate ),42.54 (Accurate ),124.94 (Accurate ),26.39 (Accurate ),100.0 % ,Good
+14,0,Midstance,7.14%,5.2 (Accurate ),66.64 (Inaccurate ),15.89 (Accurate ),16.83 (Accurate ),75.0 % ,Good
+15,0,Terminal Swing,20.0%,5.03 (Accurate ),133.05 (Accurate ),20.67 (Accurate ),17.84 (Accurate ),100.0 % ,Good
+16,1,Terminal Stance,31.25%,4.32 (Accurate ),112.16 (Inaccurate ),15.08 (Accurate ),30.42 (Accurate ),75.0 % ,Good
+17,1,Terminal Stance,35.29%,1.71 (Inaccurate ),78.94 (Inaccurate ),13.67 (Inaccurate ),38.96 (Accurate ),25.0 % ,Should Improve
+18,1,Initial Contact,36.11%,-0.34 (Inaccurate ),50.97 (Inaccurate ),17.88 (Inaccurate ),37.92 (Accurate ),25.0 % ,Should Improve
+19,1,Initial Contact,36.84%,-0.58 (Inaccurate ),29.87 (Accurate ),51.12 (Accurate ),33.09 (Accurate ),75.0 % ,Good
+20,1,Initial Contact,37.5%,-0.9 (Inaccurate ),23.79 (Accurate ),95.13 (Accurate ),30.66 (Accurate ),75.0 % ,Good
+21,1,Initial Contact,38.1%,-0.71 (Inaccurate ),17.85 (Accurate ),114.1 (Accurate ),23.92 (Accurate ),75.0 % ,Good
+22,1,Initial Contact,38.64%,0.17 (Inaccurate ),10.87 (Accurate ),138.46 (Inaccurate ),17.93 (Accurate ),50.0 % ,Satisfactory
+23,1,Initial Contact,41.3%,4.09 (Accurate ),23.59 (Accurate ),11.17 (Accurate ),17.6 (Accurate ),100.0 % ,Good
+24,1,Initial Contact,41.67%,6.75 (Accurate ),18.61 (Accurate ),66.76 (Accurate ),8.25 (Inaccurate ),75.0 % ,Good
+25,1,Midstance,10.0%,8.46 (Accurate ),34.1 (Accurate ),50.74 (Accurate ),10.62 (Accurate ),100.0 % ,Good
+26,1,Midstance,11.54%,9.24 (Accurate ),40.02 (Accurate ),69.9 (Inaccurate ),8.63 (Inaccurate ),50.0 % ,Satisfactory
+27,1,Terminal Stance,31.48%,9.68 (Accurate ),50.02 (Accurate ),40.49 (Inaccurate ),5.53 (Inaccurate ),50.0 % ,Satisfactory
+28,1,Terminal Stance,32.14%,8.81 (Accurate ),43.63 (Accurate ),27.92 (Accurate ),14.65 (Inaccurate ),75.0 % ,Good
+29,1,Terminal Swing,17.24%,7.48 (Accurate ),81.31 (Inaccurate ),18.59 (Accurate ),16.23 (Accurate ),75.0 % ,Good
+30,1,Terminal Swing,18.33%,6.99 (Accurate ),107.21 (Accurate ),6.88 (Accurate ),11.59 (Accurate ),100.0 % ,Good
+31,2,Initial Contact,40.32%,6.23 (Accurate ),15.46 (Accurate ),139.85 (Inaccurate ),23.71 (Accurate ),75.0 % ,Good
+32,2,Midstance,12.5%,5.33 (Accurate ),69.02 (Inaccurate ),9.38 (Accurate ),16.89 (Accurate ),75.0 % ,Good
+33,2,Terminal Swing,19.7%,5.09 (Accurate ),147.84 (Inaccurate ),16.79 (Accurate ),17.22 (Accurate ),75.0 % ,Good
+34,3,Terminal Stance,27.94%,4.52 (Accurate ),107.6 (Inaccurate ),15.62 (Accurate ),26.64 (Accurate ),75.0 % ,Good
+35,3,Terminal Stance,28.57%,3.2 (Inaccurate ),89.76 (Inaccurate ),16.57 (Accurate ),39.14 (Accurate ),50.0 % ,Satisfactory
+36,3,Terminal Stance,29.17%,1.74 (Inaccurate ),57.58 (Accurate ),18.69 (Accurate ),42.62 (Accurate ),75.0 % ,Good
+37,3,Initial Contact,37.84%,0.68 (Inaccurate ),36.8 (Accurate ),41.29 (Accurate ),37.55 (Accurate ),75.0 % ,Good
+38,3,Initial Contact,38.16%,0.24 (Inaccurate ),22.88 (Accurate ),81.28 (Inaccurate ),31.88 (Accurate ),50.0 % ,Satisfactory
+39,3,Initial Contact,38.46%,0.01 (Inaccurate ),17.45 (Accurate ),112.88 (Accurate ),26.53 (Accurate ),75.0 % ,Good
+40,3,Initial Contact,38.75%,0.15 (Inaccurate ),18.38 (Accurate ),131.71 (Accurate ),21.72 (Accurate ),75.0 % ,Good
+41,3,Initial Contact,39.02%,1.56 (Inaccurate ),20.36 (Accurate ),123.33 (Accurate ),18.34 (Accurate ),75.0 % ,Good
+42,3,Initial Contact,39.29%,4.12 (Accurate ),33.38 (Accurate ),40.33 (Accurate ),18.4 (Accurate ),100.0 % ,Good
+43,3,Initial Contact,39.53%,6.37 (Accurate ),22.29 (Accurate ),98.36 (Inaccurate ),4.91 (Inaccurate ),50.0 % ,Satisfactory
+44,3,Midstance,15.91%,7.47 (Accurate ),16.08 (Accurate ),85.3 (Inaccurate ),4.87 (Inaccurate ),50.0 % ,Satisfactory
+45,3,Midstance,16.67%,8.12 (Accurate ),13.82 (Accurate ),65.55 (Inaccurate ),11.79 (Accurate ),75.0 % ,Good
+46,3,Terminal Stance,27.17%,7.08 (Accurate ),27.37 (Inaccurate ),27.99 (Inaccurate ),27.56 (Accurate ),50.0 % ,Satisfactory
+47,3,Terminal Stance,27.66%,6.16 (Accurate ),66.1 (Accurate ),0.21 (Inaccurate ),14.41 (Inaccurate ),50.0 % ,Satisfactory
+48,3,Terminal Swing,18.75%,5.73 (Accurate ),112.06 (Accurate ),2.19 (Accurate ),13.74 (Accurate ),100.0 % ,Good
+49,3,Terminal Swing,19.39%,5.64 (Accurate ),101.43 (Accurate ),13.64 (Accurate ),1.06 (Inaccurate ),75.0 % ,Good
+50,3,Terminal Swing,20.0%,5.26 (Accurate ),124.13 (Accurate ),16.3 (Accurate ),5.05 (Accurate ),100.0 % ,Good
+51,3,Terminal Swing,20.59%,5.3 (Accurate ),146.22 (Inaccurate ),16.45 (Accurate ),14.69 (Accurate ),75.0 % ,Good
+52,3,Terminal Swing,21.15%,5.15 (Accurate ),132.08 (Accurate ),14.26 (Accurate ),24.61 (Accurate ),100.0 % ,Good
+53,4,Terminal Stance,25.47%,4.73 (Accurate ),95.26 (Inaccurate ),10.93 (Accurate ),37.56 (Accurate ),75.0 % ,Good
+54,4,Terminal Stance,25.93%,3.02 (Inaccurate ),63.63 (Accurate ),8.08 (Accurate ),44.24 (Accurate ),75.0 % ,Good
+55,4,Initial Contact,38.18%,1.44 (Inaccurate ),44.69 (Inaccurate ),36.27 (Accurate ),40.49 (Accurate ),50.0 % ,Satisfactory
+56,4,Initial Contact,38.39%,1.13 (Inaccurate ),28.86 (Accurate ),73.73 (Inaccurate ),36.71 (Accurate ),50.0 % ,Satisfactory
+57,4,Initial Contact,38.6%,1.22 (Inaccurate ),15.1 (Accurate ),106.03 (Accurate ),27.51 (Accurate ),75.0 % ,Good
+58,4,Initial Contact,38.79%,1.1 (Inaccurate ),14.88 (Accurate ),123.28 (Accurate ),23.04 (Accurate ),75.0 % ,Good
+59,4,Initial Contact,38.98%,1.32 (Inaccurate ),20.58 (Accurate ),134.26 (Accurate ),20.41 (Accurate ),75.0 % ,Good
+60,4,Midstance,15.83%,3.71 (Inaccurate ),32.97 (Accurate ),117.41 (Accurate ),15.91 (Accurate ),75.0 % ,Good
+61,4,Initial Contact,38.52%,7.01 (Accurate ),27.71 (Accurate ),132.07 (Accurate ),11.75 (Inaccurate ),75.0 % ,Good
+62,4,Midstance,16.13%,8.79 (Accurate ),19.33 (Accurate ),94.9 (Inaccurate ),0.15 (Inaccurate ),50.0 % ,Satisfactory
+63,4,Midstance,16.67%,9.02 (Accurate ),12.84 (Accurate ),68.45 (Accurate ),6.9 (Inaccurate ),75.0 % ,Good
+64,4,Initial Contact,37.5%,8.1 (Accurate ),42.91 (Inaccurate ),20.09 (Inaccurate ),45.73 (Accurate ),50.0 % ,Satisfactory
+65,4,Initial Contact,37.69%,6.9 (Accurate ),44.57 (Inaccurate ),28.51 (Accurate ),40.43 (Accurate ),75.0 % ,Good
+66,4,Initial Contact,37.88%,6.49 (Accurate ),15.92 (Accurate ),66.75 (Accurate ),33.62 (Accurate ),100.0 % ,Good
+67,4,Terminal Swing,21.64%,6.59 (Accurate ),120.62 (Accurate ),6.24 (Accurate ),11.65 (Accurate ),100.0 % ,Good
+68,4,Terminal Swing,22.06%,6.63 (Accurate ),138.62 (Inaccurate ),13.65 (Accurate ),7.47 (Accurate ),75.0 % ,Good
+69,5,Initial Contact,38.41%,6.4 (Accurate ),3.75 (Accurate ),157.42 (Inaccurate ),6.55 (Inaccurate ),50.0 % ,Satisfactory
+70,5,Terminal Swing,22.86%,6.21 (Accurate ),137.22 (Inaccurate ),18.75 (Accurate ),14.61 (Accurate ),75.0 % ,Good
+71,5,Terminal Swing,23.24%,5.89 (Accurate ),127.81 (Accurate ),28.87 (Accurate ),23.51 (Accurate ),100.0 % ,Good
+72,6,Terminal Stance,22.92%,4.89 (Accurate ),103.29 (Inaccurate ),19.73 (Accurate ),37.94 (Accurate ),75.0 % ,Good
+73,6,Initial Contact,37.67%,3.14 (Inaccurate ),57.22 (Inaccurate ),23.1 (Accurate ),41.59 (Accurate ),50.0 % ,Satisfactory
+74,6,Initial Contact,37.84%,1.93 (Inaccurate ),33.47 (Accurate ),49.23 (Inaccurate ),35.79 (Accurate ),50.0 % ,Satisfactory
+75,6,Initial Contact,38.0%,2.14 (Inaccurate ),18.4 (Accurate ),88.48 (Inaccurate ),28.95 (Accurate ),50.0 % ,Satisfactory
+76,6,Initial Contact,38.16%,2.01 (Inaccurate ),14.1 (Accurate ),115.24 (Accurate ),25.22 (Accurate ),75.0 % ,Good
+77,6,Initial Contact,38.31%,2.14 (Inaccurate ),18.74 (Accurate ),131.33 (Accurate ),23.12 (Accurate ),75.0 % ,Good
+78,6,Initial Contact,38.46%,2.48 (Inaccurate ),21.31 (Accurate ),147.48 (Inaccurate ),17.39 (Accurate ),50.0 % ,Satisfactory
+79,6,Initial Contact,38.61%,5.42 (Accurate ),33.33 (Accurate ),35.98 (Accurate ),17.3 (Accurate ),100.0 % ,Good
+80,6,Initial Contact,38.75%,8.33 (Accurate ),22.23 (Accurate ),77.43 (Inaccurate ),4.9 (Inaccurate ),50.0 % ,Satisfactory
+81,6,Initial Contact,38.89%,9.13 (Accurate ),9.75 (Accurate ),77.1 (Inaccurate ),6.63 (Inaccurate ),50.0 % ,Satisfactory
+82,6,Terminal Stance,22.56%,9.12 (Accurate ),36.52 (Accurate ),26.01 (Inaccurate ),13.66 (Inaccurate ),50.0 % ,Satisfactory
+83,6,Terminal Stance,23.49%,9.61 (Accurate ),43.92 (Accurate ),6.7 (Inaccurate ),1.55 (Inaccurate ),50.0 % ,Satisfactory
+84,6,Terminal Swing,22.62%,8.96 (Accurate ),75.2 (Inaccurate ),15.77 (Accurate ),17.94 (Accurate ),75.0 % ,Good
+85,7,Initial Contact,38.24%,7.82 (Accurate ),7.37 (Accurate ),112.29 (Accurate ),27.21 (Accurate ),100.0 % ,Good
+86,7,Terminal Swing,23.26%,7.56 (Accurate ),127.02 (Accurate ),12.56 (Accurate ),5.76 (Accurate ),100.0 % ,Good
+87,7,Terminal Swing,23.56%,7.36 (Accurate ),127.54 (Accurate ),12.41 (Accurate ),9.97 (Accurate ),100.0 % ,Good
+88,7,Terminal Swing,23.86%,6.55 (Accurate ),131.13 (Accurate ),17.72 (Accurate ),13.26 (Accurate ),100.0 % ,Good
+89,7,Terminal Swing,24.16%,5.36 (Accurate ),125.2 (Accurate ),15.52 (Accurate ),26.39 (Accurate ),100.0 % ,Good
+90,8,Terminal Stance,22.22%,4.06 (Accurate ),97.05 (Inaccurate ),16.16 (Accurate ),37.12 (Accurate ),75.0 % ,Good
+91,8,Terminal Stance,22.53%,2.65 (Inaccurate ),61.03 (Accurate ),14.65 (Accurate ),42.17 (Accurate ),75.0 % ,Good
+92,8,Initial Contact,38.04%,1.92 (Inaccurate ),40.74 (Inaccurate ),38.44 (Accurate ),38.7 (Accurate ),50.0 % ,Satisfactory
+93,8,Initial Contact,38.17%,1.57 (Inaccurate ),23.07 (Accurate ),76.23 (Inaccurate ),32.77 (Accurate ),50.0 % ,Satisfactory
+94,8,Initial Contact,38.3%,1.08 (Inaccurate ),14.53 (Accurate ),108.39 (Accurate ),26.42 (Accurate ),75.0 % ,Good
+95,8,Initial Contact,38.42%,1.23 (Inaccurate ),16.93 (Accurate ),121.65 (Accurate ),23.35 (Accurate ),75.0 % ,Good
+96,8,Initial Contact,38.54%,1.72 (Inaccurate ),4.83 (Accurate ),140.66 (Inaccurate ),15.17 (Accurate ),50.0 % ,Satisfactory
+97,8,Initial Contact,39.18%,3.99 (Inaccurate ),27.34 (Accurate ),20.23 (Accurate ),14.89 (Inaccurate ),50.0 % ,Satisfactory
+98,8,Initial Contact,39.29%,6.37 (Accurate ),21.0 (Accurate ),92.6 (Inaccurate ),5.19 (Inaccurate ),50.0 % ,Satisfactory
+99,8,Initial Contact,39.39%,7.24 (Accurate ),11.1 (Accurate ),77.61 (Inaccurate ),5.94 (Inaccurate ),50.0 % ,Satisfactory
+100,8,Terminal Stance,22.5%,7.55 (Accurate ),30.42 (Inaccurate ),44.15 (Accurate ),3.53 (Inaccurate ),50.0 % ,Satisfactory
+101,8,Terminal Stance,22.77%,6.99 (Accurate ),31.59 (Inaccurate ),36.28 (Accurate ),15.91 (Inaccurate ),50.0 % ,Satisfactory
+102,8,Terminal Stance,23.04%,7.54 (Accurate ),59.5 (Accurate ),17.86 (Accurate ),13.21 (Inaccurate ),75.0 % ,Good
+103,8,Terminal Stance,23.3%,6.48 (Accurate ),53.99 (Accurate ),19.55 (Accurate ),0.79 (Inaccurate ),75.0 % ,Good
+104,8,Terminal Swing,23.08%,6.35 (Accurate ),116.73 (Accurate ),14.8 (Accurate ),5.98 (Accurate ),100.0 % ,Good
+105,8,Terminal Swing,23.33%,6.09 (Accurate ),118.34 (Accurate ),24.62 (Accurate ),14.54 (Accurate ),100.0 % ,Good
+106,8,Terminal Swing,23.58%,5.18 (Accurate ),146.37 (Inaccurate ),15.18 (Accurate ),16.87 (Accurate ),75.0 % ,Good
+107,8,Terminal Swing,23.83%,3.85 (Inaccurate ),115.11 (Accurate ),15.67 (Accurate ),28.55 (Accurate ),75.0 % ,Good
+108,9,Terminal Stance,22.69%,3.58 (Inaccurate ),81.7 (Inaccurate ),13.4 (Accurate ),41.19 (Accurate ),50.0 % ,Satisfactory
+109,9,Terminal Stance,22.94%,3.02 (Inaccurate ),60.82 (Accurate ),12.13 (Accurate ),46.42 (Accurate ),75.0 % ,Good
+110,9,Initial Contact,37.73%,2.0 (Inaccurate ),41.75 (Inaccurate ),34.29 (Inaccurate ),42.58 (Accurate ),25.0 % ,Should Improve
+111,9,Initial Contact,37.84%,2.22 (Inaccurate ),23.64 (Accurate ),75.01 (Inaccurate ),35.24 (Accurate ),50.0 % ,Satisfactory
+112,9,Initial Contact,37.95%,1.81 (Inaccurate ),19.18 (Accurate ),110.25 (Accurate ),31.49 (Accurate ),75.0 % ,Good
+113,9,Initial Contact,38.05%,2.03 (Inaccurate ),23.31 (Accurate ),127.48 (Accurate ),28.61 (Accurate ),75.0 % ,Good
+114,9,Initial Contact,38.16%,2.32 (Inaccurate ),17.77 (Accurate ),131.78 (Accurate ),19.85 (Accurate ),75.0 % ,Good
+115,9,Initial Contact,38.26%,5.7 (Accurate ),30.98 (Accurate ),24.68 (Inaccurate ),19.3 (Accurate ),75.0 % ,Good
+116,9,Initial Contact,38.36%,8.29 (Accurate ),24.57 (Accurate ),90.26 (Inaccurate ),8.8 (Inaccurate ),50.0 % ,Satisfactory
+117,9,Midstance,15.38%,9.16 (Accurate ),29.13 (Accurate ),80.62 (Inaccurate ),4.55 (Inaccurate ),50.0 % ,Satisfactory
+118,9,Terminal Stance,23.73%,10.12 (Accurate ),33.09 (Inaccurate ),64.73 (Accurate ),0.76 (Inaccurate ),50.0 % ,Satisfactory
+119,9,Initial Contact,37.82%,8.58 (Accurate ),36.69 (Accurate ),6.81 (Inaccurate ),45.28 (Accurate ),75.0 % ,Good
+120,9,Terminal Stance,24.17%,8.37 (Accurate ),36.97 (Accurate ),15.01 (Accurate ),21.98 (Inaccurate ),75.0 % ,Good
+121,9,Terminal Swing,23.14%,7.83 (Accurate ),97.63 (Accurate ),13.57 (Accurate ),14.95 (Accurate ),100.0 % ,Good
+122,9,Terminal Swing,23.36%,7.5 (Accurate ),125.92 (Accurate ),12.88 (Accurate ),7.85 (Accurate ),100.0 % ,Good
+123,9,Terminal Swing,23.58%,7.26 (Accurate ),116.14 (Accurate ),19.9 (Accurate ),9.98 (Accurate ),100.0 % ,Good
+124,9,Terminal Swing,23.79%,5.4 (Accurate ),146.61 (Inaccurate ),14.08 (Accurate ),11.46 (Accurate ),75.0 % ,Good
+125,9,Terminal Swing,24.0%,5.19 (Accurate ),133.74 (Accurate ),13.53 (Accurate ),21.57 (Accurate ),100.0 % ,Good
+126,10,Terminal Stance,23.41%,4.76 (Accurate ),103.51 (Inaccurate ),12.99 (Accurate ),37.26 (Accurate ),75.0 % ,Good
+127,10,Terminal Stance,23.62%,3.58 (Inaccurate ),67.39 (Accurate ),12.4 (Accurate ),47.01 (Accurate ),75.0 % ,Good
+128,10,Initial Contact,38.28%,2.89 (Inaccurate ),47.22 (Inaccurate ),27.04 (Accurate ),44.33 (Accurate ),50.0 % ,Satisfactory
+129,10,Initial Contact,38.37%,2.34 (Inaccurate ),30.45 (Accurate ),52.38 (Inaccurate ),38.7 (Accurate ),50.0 % ,Satisfactory
+130,10,Initial Contact,38.46%,2.06 (Inaccurate ),17.75 (Accurate ),91.16 (Inaccurate ),30.33 (Accurate ),50.0 % ,Satisfactory
+131,10,Initial Contact,38.55%,2.37 (Inaccurate ),19.48 (Accurate ),118.8 (Accurate ),27.58 (Accurate ),75.0 % ,Good
+132,10,Initial Contact,38.64%,2.67 (Inaccurate ),18.77 (Accurate ),125.83 (Accurate ),21.93 (Accurate ),75.0 % ,Good
+133,10,Initial Contact,38.72%,4.22 (Accurate ),22.07 (Accurate ),138.15 (Inaccurate ),16.77 (Accurate ),75.0 % ,Good
+134,10,Initial Contact,38.81%,6.92 (Accurate ),27.08 (Accurate ),128.79 (Accurate ),12.91 (Inaccurate ),75.0 % ,Good
+135,10,Midstance,14.81%,8.42 (Accurate ),16.02 (Accurate ),82.15 (Inaccurate ),1.55 (Inaccurate ),50.0 % ,Satisfactory
+136,10,Initial Contact,38.6%,9.44 (Accurate ),31.57 (Accurate ),71.32 (Accurate ),4.05 (Inaccurate ),75.0 % ,Good
+137,10,Terminal Stance,22.99%,9.35 (Accurate ),38.8 (Accurate ),29.04 (Accurate ),3.66 (Inaccurate ),75.0 % ,Good
+138,10,Terminal Stance,23.19%,8.88 (Accurate ),46.26 (Accurate ),25.79 (Accurate ),17.46 (Inaccurate ),75.0 % ,Good
+139,10,Terminal Swing,23.74%,8.13 (Accurate ),90.26 (Inaccurate ),14.77 (Accurate ),14.55 (Accurate ),75.0 % ,Good
+140,11,Terminal Stance,23.21%,7.69 (Accurate ),68.55 (Accurate ),26.45 (Accurate ),23.42 (Inaccurate ),75.0 % ,Good
+141,11,Terminal Swing,23.76%,7.45 (Accurate ),128.03 (Accurate ),1.45 (Accurate ),2.63 (Inaccurate ),75.0 % ,Good
+142,12,Initial Contact,38.73%,7.41 (Accurate ),11.11 (Accurate ),142.79 (Inaccurate ),13.82 (Inaccurate ),50.0 % ,Satisfactory
+143,12,Terminal Swing,24.13%,6.21 (Accurate ),140.09 (Inaccurate ),19.45 (Accurate ),19.48 (Accurate ),75.0 % ,Good
+144,13,Terminal Stance,22.92%,5.82 (Accurate ),111.82 (Inaccurate ),12.67 (Accurate ),32.75 (Accurate ),75.0 % ,Good
+145,13,Terminal Stance,23.1%,4.54 (Accurate ),94.06 (Inaccurate ),14.69 (Accurate ),45.12 (Accurate ),75.0 % ,Good
+146,13,Initial Contact,38.7%,3.98 (Inaccurate ),58.29 (Inaccurate ),18.76 (Accurate ),47.14 (Accurate ),50.0 % ,Satisfactory
+147,13,Initial Contact,38.78%,3.38 (Inaccurate ),34.41 (Accurate ),44.34 (Accurate ),39.69 (Accurate ),75.0 % ,Good
+148,13,Initial Contact,38.85%,3.14 (Inaccurate ),21.38 (Accurate ),79.7 (Inaccurate ),34.64 (Accurate ),50.0 % ,Satisfactory
+149,13,Initial Contact,38.93%,2.76 (Inaccurate ),15.67 (Accurate ),110.36 (Accurate ),28.99 (Accurate ),75.0 % ,Good
+150,13,Initial Contact,39.0%,2.53 (Inaccurate ),18.51 (Accurate ),128.98 (Accurate ),25.35 (Accurate ),75.0 % ,Good
+151,13,Initial Contact,39.07%,3.5 (Inaccurate ),15.38 (Accurate ),136.64 (Inaccurate ),17.59 (Accurate ),50.0 % ,Satisfactory
+152,13,Initial Contact,39.14%,4.6 (Accurate ),27.17 (Accurate ),47.49 (Accurate ),17.48 (Accurate ),100.0 % ,Good
+153,13,Initial Contact,39.22%,6.11 (Accurate ),22.56 (Accurate ),100.77 (Inaccurate ),6.42 (Inaccurate ),50.0 % ,Satisfactory
+154,13,Terminal Stance,22.73%,6.71 (Accurate ),73.91 (Accurate ),18.47 (Accurate ),42.64 (Accurate ),100.0 % ,Good
+155,13,Terminal Stance,22.9%,8.83 (Accurate ),40.26 (Accurate ),59.26 (Inaccurate ),2.39 (Inaccurate ),50.0 % ,Satisfactory
+156,13,Terminal Stance,23.08%,9.28 (Accurate ),30.53 (Inaccurate ),30.36 (Accurate ),2.84 (Inaccurate ),50.0 % ,Satisfactory
+157,13,Terminal Stance,23.25%,9.13 (Accurate ),52.01 (Accurate ),22.1 (Accurate ),18.67 (Inaccurate ),75.0 % ,Good
+158,13,Terminal Swing,23.42%,9.2 (Accurate ),103.21 (Accurate ),15.44 (Accurate ),13.67 (Accurate ),100.0 % ,Good
+159,13,Terminal Swing,23.58%,8.83 (Accurate ),130.1 (Accurate ),13.85 (Accurate ),7.24 (Accurate ),100.0 % ,Good
+160,13,Terminal Swing,23.75%,8.06 (Accurate ),130.19 (Accurate ),10.62 (Accurate ),12.12 (Accurate ),100.0 % ,Good
+161,14,Midstance,14.6%,6.69 (Accurate ),48.29 (Inaccurate ),24.33 (Accurate ),13.99 (Accurate ),75.0 % ,Good
+162,14,Terminal Swing,23.77%,6.26 (Accurate ),124.43 (Accurate ),20.27 (Accurate ),23.76 (Accurate ),100.0 % ,Good
+163,15,Terminal Stance,22.7%,5.24 (Accurate ),99.56 (Inaccurate ),15.11 (Accurate ),36.59 (Accurate ),75.0 % ,Good
+164,15,Terminal Stance,22.87%,4.17 (Accurate ),70.68 (Accurate ),17.2 (Accurate ),45.77 (Accurate ),100.0 % ,Good
+165,15,Initial Contact,38.79%,3.79 (Inaccurate ),49.05 (Inaccurate ),22.95 (Accurate ),44.46 (Accurate ),50.0 % ,Satisfactory
+166,15,Initial Contact,38.86%,3.47 (Inaccurate ),29.68 (Accurate ),46.1 (Inaccurate ),39.16 (Accurate ),50.0 % ,Satisfactory
+167,15,Initial Contact,38.92%,3.42 (Inaccurate ),18.7 (Accurate ),87.99 (Inaccurate ),33.19 (Accurate ),50.0 % ,Satisfactory
+168,15,Initial Contact,38.99%,3.52 (Inaccurate ),17.81 (Accurate ),115.46 (Accurate ),29.86 (Accurate ),75.0 % ,Good
+169,15,Initial Contact,39.05%,4.03 (Accurate ),19.82 (Accurate ),130.85 (Accurate ),25.77 (Accurate ),100.0 % ,Good
+170,15,Initial Contact,39.12%,4.96 (Accurate ),24.45 (Accurate ),116.82 (Accurate ),21.17 (Accurate ),100.0 % ,Good
+171,15,Midstance,15.2%,7.29 (Accurate ),50.89 (Inaccurate ),27.14 (Accurate ),22.41 (Accurate ),75.0 % ,Good
+172,15,Midstance,15.41%,9.48 (Accurate ),26.62 (Accurate ),87.27 (Inaccurate ),8.06 (Inaccurate ),50.0 % ,Satisfactory
+173,15,Midstance,15.61%,10.55 (Accurate ),36.22 (Accurate ),74.18 (Inaccurate ),8.21 (Inaccurate ),50.0 % ,Satisfactory
+174,15,Midstance,15.8%,11.84 (Accurate ),18.09 (Accurate ),56.74 (Inaccurate ),8.58 (Inaccurate ),50.0 % ,Satisfactory
+175,15,Midstance,16.0%,10.96 (Accurate ),36.62 (Accurate ),34.34 (Accurate ),12.09 (Accurate ),100.0 % ,Good
+176,15,Terminal Swing,23.3%,10.09 (Accurate ),80.12 (Inaccurate ),22.18 (Accurate ),11.37 (Accurate ),75.0 % ,Good
+177,15,Terminal Swing,23.45%,9.68 (Accurate ),112.81 (Accurate ),13.91 (Accurate ),9.39 (Accurate ),100.0 % ,Good
+178,15,Terminal Swing,23.6%,9.34 (Accurate ),132.6 (Accurate ),16.23 (Accurate ),4.69 (Inaccurate ),75.0 % ,Good
+179,15,Terminal Swing,23.74%,8.92 (Accurate ),144.08 (Inaccurate ),20.65 (Accurate ),16.38 (Accurate ),75.0 % ,Good
+180,15,Terminal Swing,23.89%,7.22 (Accurate ),151.11 (Inaccurate ),17.24 (Accurate ),16.2 (Accurate ),75.0 % ,Good
+181,15,Terminal Swing,24.03%,5.84 (Accurate ),122.71 (Accurate ),16.03 (Accurate ),25.93 (Accurate ),100.0 % ,Good
+182,16,Terminal Stance,21.15%,4.92 (Accurate ),95.65 (Inaccurate ),14.77 (Accurate ),40.2 (Accurate ),75.0 % ,Good
+183,16,Terminal Stance,21.31%,4.18 (Accurate ),64.94 (Accurate ),10.26 (Accurate ),46.64 (Accurate ),100.0 % ,Good
+184,16,Initial Contact,39.4%,3.41 (Inaccurate ),44.94 (Inaccurate ),32.72 (Accurate ),43.0 (Accurate ),50.0 % ,Satisfactory
+185,16,Initial Contact,39.46%,3.12 (Inaccurate ),25.91 (Accurate ),59.08 (Inaccurate ),36.18 (Accurate ),50.0 % ,Satisfactory
+186,16,Initial Contact,39.52%,2.84 (Inaccurate ),15.67 (Accurate ),91.66 (Inaccurate ),28.96 (Accurate ),50.0 % ,Satisfactory
+187,16,Initial Contact,39.57%,3.08 (Inaccurate ),15.15 (Accurate ),117.21 (Accurate ),24.74 (Accurate ),75.0 % ,Good
+188,16,Initial Contact,39.63%,3.98 (Inaccurate ),16.95 (Accurate ),136.53 (Inaccurate ),21.08 (Accurate ),50.0 % ,Satisfactory
+189,16,Initial Contact,39.68%,5.4 (Accurate ),25.6 (Accurate ),122.12 (Accurate ),17.62 (Accurate ),100.0 % ,Good
+190,16,Initial Contact,39.74%,8.55 (Accurate ),27.37 (Accurate ),120.45 (Accurate ),11.76 (Inaccurate ),75.0 % ,Good
+191,16,Initial Contact,39.79%,9.94 (Accurate ),37.13 (Accurate ),54.49 (Inaccurate ),12.18 (Inaccurate ),50.0 % ,Satisfactory
+192,16,Terminal Stance,20.57%,9.77 (Accurate ),31.1 (Inaccurate ),46.94 (Inaccurate ),15.4 (Inaccurate ),25.0 % ,Should Improve
+193,16,Terminal Stance,20.73%,9.9 (Accurate ),12.27 (Inaccurate ),42.19 (Inaccurate ),17.65 (Inaccurate ),25.0 % ,Should Improve
+194,16,Midstance,15.98%,9.6 (Accurate ),43.01 (Accurate ),21.0 (Accurate ),15.82 (Accurate ),100.0 % ,Good
+195,16,Terminal Swing,23.85%,9.12 (Accurate ),90.41 (Inaccurate ),13.55 (Accurate ),10.97 (Accurate ),75.0 % ,Good
+196,16,Terminal Swing,23.98%,8.49 (Accurate ),121.79 (Accurate ),16.31 (Accurate ),5.31 (Accurate ),100.0 % ,Good
+197,16,Terminal Swing,24.11%,7.83 (Accurate ),100.73 (Accurate ),13.9 (Accurate ),15.71 (Accurate ),100.0 % ,Good
+198,16,Terminal Swing,24.24%,7.48 (Accurate ),142.42 (Inaccurate ),11.58 (Accurate ),15.66 (Accurate ),75.0 % ,Good
+199,16,Terminal Swing,24.37%,6.19 (Accurate ),134.05 (Accurate ),15.15 (Accurate ),28.58 (Accurate ),100.0 % ,Good
+200,17,Terminal Stance,20.25%,5.24 (Accurate ),101.96 (Inaccurate ),14.41 (Accurate ),44.18 (Accurate ),75.0 % ,Good
+201,17,Terminal Stance,20.4%,5.12 (Accurate ),71.02 (Accurate ),10.15 (Accurate ),54.0 (Accurate ),100.0 % ,Good
+202,17,Initial Contact,39.85%,4.15 (Accurate ),51.14 (Inaccurate ),18.26 (Accurate ),47.99 (Accurate ),75.0 % ,Good
+203,17,Initial Contact,39.9%,3.97 (Inaccurate ),30.69 (Accurate ),42.42 (Accurate ),41.62 (Accurate ),75.0 % ,Good
+204,17,Initial Contact,39.95%,3.38 (Inaccurate ),17.76 (Accurate ),78.83 (Inaccurate ),34.0 (Accurate ),50.0 % ,Satisfactory
+205,17,Initial Contact,40.0%,3.27 (Inaccurate ),17.74 (Accurate ),108.64 (Accurate ),30.97 (Accurate ),75.0 % ,Good
+206,17,Initial Contact,40.05%,3.45 (Inaccurate ),22.2 (Accurate ),128.72 (Accurate ),27.18 (Accurate ),75.0 % ,Good
+207,17,Initial Contact,40.1%,4.93 (Accurate ),22.38 (Accurate ),105.48 (Accurate ),20.41 (Accurate ),100.0 % ,Good
+208,17,Midstance,16.11%,7.03 (Accurate ),59.72 (Inaccurate ),43.84 (Accurate ),19.94 (Accurate ),75.0 % ,Good
+209,17,Midstance,16.27%,9.1 (Accurate ),22.77 (Accurate ),84.02 (Inaccurate ),5.2 (Inaccurate ),50.0 % ,Satisfactory
+210,17,Midstance,16.43%,9.91 (Accurate ),16.02 (Accurate ),54.33 (Accurate ),4.44 (Inaccurate ),75.0 % ,Good
+211,17,Terminal Stance,20.38%,10.46 (Accurate ),28.33 (Inaccurate ),40.22 (Accurate ),3.89 (Inaccurate ),50.0 % ,Satisfactory
+212,17,Midstance,16.51%,10.81 (Accurate ),33.36 (Accurate ),36.9 (Accurate ),15.06 (Accurate ),100.0 % ,Good
+213,17,Terminal Swing,23.94%,10.04 (Accurate ),73.03 (Inaccurate ),24.59 (Accurate ),15.65 (Accurate ),75.0 % ,Good
+214,17,Terminal Swing,24.07%,9.44 (Accurate ),111.31 (Accurate ),16.24 (Accurate ),11.22 (Accurate ),100.0 % ,Good
+215,17,Terminal Swing,24.19%,8.52 (Accurate ),119.04 (Accurate ),17.23 (Accurate ),7.49 (Accurate ),100.0 % ,Good
+216,18,Midstance,16.44%,8.22 (Accurate ),46.56 (Inaccurate ),7.55 (Accurate ),18.02 (Accurate ),75.0 % ,Good
+217,18,Terminal Swing,24.19%,6.89 (Accurate ),143.25 (Inaccurate ),15.93 (Accurate ),16.94 (Accurate ),75.0 % ,Good
+218,18,Terminal Swing,24.31%,6.49 (Accurate ),108.12 (Accurate ),17.1 (Accurate ),21.46 (Accurate ),100.0 % ,Good
+219,19,Terminal Stance,19.86%,5.64 (Accurate ),90.01 (Inaccurate ),14.62 (Accurate ),41.43 (Accurate ),75.0 % ,Good
+220,19,Terminal Stance,20.0%,4.63 (Accurate ),47.91 (Accurate ),5.49 (Accurate ),28.27 (Accurate ),100.0 % ,Good
+221,19,Initial Contact,39.37%,3.86 (Inaccurate ),38.51 (Accurate ),31.5 (Accurate ),39.92 (Accurate ),75.0 % ,Good
+222,19,Initial Contact,39.41%,3.28 (Inaccurate ),23.97 (Accurate ),62.35 (Inaccurate ),35.17 (Accurate ),50.0 % ,Satisfactory
+223,19,Initial Contact,39.46%,3.18 (Inaccurate ),14.91 (Accurate ),99.93 (Accurate ),28.18 (Accurate ),75.0 % ,Good
+224,19,Initial Contact,39.51%,3.51 (Inaccurate ),17.86 (Accurate ),122.58 (Accurate ),25.66 (Accurate ),75.0 % ,Good
+225,19,Initial Contact,39.56%,4.26 (Accurate ),13.63 (Accurate ),137.57 (Inaccurate ),20.14 (Accurate ),75.0 % ,Good
+226,19,Initial Contact,39.6%,5.65 (Accurate ),28.26 (Accurate ),128.05 (Accurate ),18.1 (Accurate ),100.0 % ,Good
+227,19,Initial Contact,39.65%,7.7 (Accurate ),19.88 (Accurate ),112.93 (Inaccurate ),5.09 (Inaccurate ),50.0 % ,Satisfactory
+228,19,Midstance,16.67%,9.36 (Accurate ),28.98 (Accurate ),89.86 (Inaccurate ),4.37 (Inaccurate ),50.0 % ,Satisfactory
+229,19,Initial Contact,39.52%,10.46 (Accurate ),62.12 (Inaccurate ),14.35 (Inaccurate ),56.17 (Accurate ),50.0 % ,Satisfactory
+230,19,Initial Contact,39.57%,10.28 (Accurate ),50.96 (Inaccurate ),14.16 (Inaccurate ),59.41 (Accurate ),50.0 % ,Satisfactory
+231,19,Terminal Stance,20.35%,9.34 (Accurate ),43.05 (Accurate ),3.81 (Inaccurate ),18.7 (Inaccurate ),50.0 % ,Satisfactory
+237,19,Initial Contact,39.44%,2.02 (Inaccurate ),26.51 (Accurate ),103.09 (Inaccurate ),8.12 (Inaccurate ),25.0 % ,Should Improve
+238,19,Initial Contact,39.48%,2.93 (Inaccurate ),16.98 (Accurate ),78.25 (Inaccurate ),2.03 (Inaccurate ),25.0 % ,Should Improve
+239,19,Initial Contact,39.74%,4.34 (Accurate ),13.4 (Accurate ),62.42 (Inaccurate ),8.98 (Inaccurate ),50.0 % ,Satisfactory
+240,19,Initial Contact,40.0%,4.36 (Accurate ),13.65 (Accurate ),48.84 (Inaccurate ),16.09 (Accurate ),75.0 % ,Good
+241,19,Midstance,16.74%,4.92 (Accurate ),23.64 (Accurate ),32.46 (Accurate ),16.48 (Accurate ),100.0 % ,Good
+242,19,Midstance,16.88%,4.75 (Accurate ),10.76 (Accurate ),24.07 (Accurate ),12.64 (Accurate ),100.0 % ,Good
+243,19,Midstance,17.02%,3.65 (Inaccurate ),70.13 (Inaccurate ),19.76 (Accurate ),11.29 (Accurate ),50.0 % ,Satisfactory
+244,19,Terminal Swing,23.22%,3.47 (Inaccurate ),128.96 (Accurate ),21.02 (Accurate ),4.22 (Inaccurate ),50.0 % ,Satisfactory
+245,19,Terminal Swing,23.33%,3.43 (Inaccurate ),122.81 (Accurate ),16.72 (Accurate ),11.79 (Accurate ),75.0 % ,Good
+246,19,Terminal Swing,23.44%,3.27 (Inaccurate ),133.92 (Accurate ),12.89 (Accurate ),15.36 (Accurate ),75.0 % ,Good
+247,19,Terminal Swing,23.55%,0.84 (Inaccurate ),119.24 (Accurate ),13.97 (Accurate ),24.44 (Accurate ),75.0 % ,Good
+248,20,Midstance,16.87%,-0.85 (Inaccurate ),74.87 (Inaccurate ),14.6 (Accurate ),35.04 (Accurate ),50.0 % ,Satisfactory
+249,20,Initial Contact,40.57%,-2.2 (Inaccurate ),50.7 (Inaccurate ),14.97 (Accurate ),37.08 (Accurate ),50.0 % ,Satisfactory
+250,20,Initial Contact,40.61%,-2.94 (Inaccurate ),34.29 (Accurate ),35.23 (Accurate ),33.06 (Accurate ),75.0 % ,Good
+251,20,Initial Contact,40.65%,-3.48 (Inaccurate ),21.92 (Accurate ),52.99 (Inaccurate ),27.67 (Accurate ),50.0 % ,Satisfactory
+252,20,Initial Contact,40.69%,-3.39 (Inaccurate ),17.04 (Accurate ),98.48 (Accurate ),21.69 (Accurate ),75.0 % ,Good
+253,20,Initial Contact,40.73%,-3.11 (Inaccurate ),19.84 (Accurate ),124.37 (Accurate ),17.78 (Accurate ),75.0 % ,Good
+254,20,Midstance,17.07%,-1.97 (Inaccurate ),54.21 (Inaccurate ),9.44 (Accurate ),12.94 (Accurate ),50.0 % ,Satisfactory
+255,20,Initial Contact,41.0%,-0.4 (Inaccurate ),28.0 (Accurate ),45.77 (Inaccurate ),8.29 (Inaccurate ),25.0 % ,Should Improve
+256,20,Initial Contact,41.04%,2.39 (Inaccurate ),22.06 (Accurate ),83.4 (Inaccurate ),0.55 (Inaccurate ),25.0 % ,Should Improve
+257,20,Initial Contact,41.27%,4.53 (Accurate ),16.27 (Accurate ),71.12 (Inaccurate ),6.69 (Inaccurate ),50.0 % ,Satisfactory
+258,20,Initial Contact,41.5%,4.36 (Accurate ),23.15 (Accurate ),55.55 (Inaccurate ),2.9 (Inaccurate ),50.0 % ,Satisfactory
+259,20,Midstance,17.13%,4.71 (Accurate ),16.34 (Accurate ),40.2 (Inaccurate ),17.45 (Accurate ),75.0 % ,Good
+260,20,Initial Contact,41.76%,5.3 (Accurate ),3.43 (Accurate ),26.33 (Accurate ),14.1 (Inaccurate ),75.0 % ,Good
+261,20,Midstance,17.19%,5.63 (Accurate ),53.3 (Inaccurate ),19.16 (Accurate ),11.74 (Accurate ),75.0 % ,Good
+262,20,Terminal Swing,22.76%,4.3 (Accurate ),124.9 (Accurate ),22.5 (Accurate ),7.41 (Accurate ),100.0 % ,Good
+263,20,Terminal Swing,22.87%,3.81 (Inaccurate ),107.01 (Accurate ),20.08 (Accurate ),8.11 (Accurate ),75.0 % ,Good
+264,20,Terminal Swing,22.97%,3.63 (Inaccurate ),142.84 (Inaccurate ),15.21 (Accurate ),9.12 (Accurate ),50.0 % ,Satisfactory
+265,20,Terminal Swing,23.08%,2.23 (Inaccurate ),131.58 (Accurate ),14.41 (Accurate ),18.31 (Accurate ),75.0 % ,Good
+266,21,Midstance,17.05%,0.92 (Inaccurate ),88.35 (Inaccurate ),14.95 (Accurate ),29.58 (Accurate ),50.0 % ,Satisfactory
+267,21,Initial Contact,41.98%,-0.67 (Inaccurate ),61.12 (Inaccurate ),27.1 (Accurate ),36.28 (Accurate ),50.0 % ,Satisfactory
+268,21,Initial Contact,42.02%,-2.21 (Inaccurate ),39.64 (Accurate ),39.71 (Accurate ),33.41 (Accurate ),75.0 % ,Good
+269,21,Initial Contact,42.05%,-2.44 (Inaccurate ),26.25 (Accurate ),54.39 (Inaccurate ),29.7 (Accurate ),50.0 % ,Satisfactory
+270,21,Initial Contact,42.08%,-2.75 (Inaccurate ),16.79 (Accurate ),74.74 (Inaccurate ),22.82 (Accurate ),50.0 % ,Satisfactory
+271,21,Initial Contact,42.11%,-2.05 (Inaccurate ),17.43 (Accurate ),127.59 (Accurate ),19.64 (Accurate ),75.0 % ,Good
+272,21,Initial Contact,42.13%,-0.73 (Inaccurate ),17.86 (Accurate ),54.06 (Inaccurate ),16.49 (Accurate ),50.0 % ,Satisfactory
+273,21,Initial Contact,42.16%,2.11 (Inaccurate ),24.97 (Accurate ),36.19 (Accurate ),12.72 (Inaccurate ),50.0 % ,Satisfactory
+274,21,Initial Contact,42.19%,3.8 (Inaccurate ),22.88 (Accurate ),99.55 (Inaccurate ),5.16 (Inaccurate ),25.0 % ,Should Improve
+275,21,Initial Contact,42.22%,6.03 (Accurate ),15.18 (Accurate ),89.21 (Inaccurate ),5.27 (Inaccurate ),50.0 % ,Satisfactory
+276,21,Initial Contact,42.44%,5.94 (Accurate ),28.32 (Accurate ),61.69 (Inaccurate ),0.88 (Inaccurate ),50.0 % ,Satisfactory
+277,21,Initial Contact,42.65%,5.89 (Accurate ),24.4 (Accurate ),43.99 (Inaccurate ),0.62 (Inaccurate ),50.0 % ,Satisfactory
+278,21,Midstance,17.77%,6.56 (Accurate ),33.01 (Accurate ),27.74 (Accurate ),16.57 (Accurate ),100.0 % ,Good
+279,21,Midstance,17.88%,6.06 (Accurate ),23.83 (Accurate ),21.35 (Accurate ),15.8 (Accurate ),100.0 % ,Good
+280,21,Terminal Swing,22.36%,5.43 (Accurate ),118.29 (Accurate ),19.64 (Accurate ),12.41 (Accurate ),100.0 % ,Good
+281,21,Terminal Swing,22.46%,4.75 (Accurate ),124.63 (Accurate ),19.13 (Accurate ),6.46 (Accurate ),100.0 % ,Good
+282,21,Terminal Swing,22.56%,4.12 (Accurate ),138.21 (Inaccurate ),12.66 (Accurate ),6.31 (Accurate ),75.0 % ,Good
+283,21,Terminal Swing,22.66%,4.21 (Accurate ),135.95 (Inaccurate ),16.72 (Accurate ),17.8 (Accurate ),75.0 % ,Good
+284,22,Midstance,17.74%,3.03 (Inaccurate ),107.8 (Inaccurate ),12.87 (Accurate ),30.76 (Accurate ),50.0 % ,Satisfactory
+285,22,Initial Contact,43.04%,0.86 (Inaccurate ),66.07 (Inaccurate ),11.02 (Accurate ),38.65 (Accurate ),50.0 % ,Satisfactory
+286,22,Initial Contact,43.06%,-0.48 (Inaccurate ),43.09 (Inaccurate ),21.68 (Accurate ),35.49 (Accurate ),50.0 % ,Satisfactory
+287,22,Initial Contact,43.09%,-1.39 (Inaccurate ),26.47 (Accurate ),48.95 (Inaccurate ),29.39 (Accurate ),50.0 % ,Satisfactory
+288,22,Initial Contact,43.11%,-2.07 (Inaccurate ),17.4 (Accurate ),79.19 (Inaccurate ),23.96 (Accurate ),50.0 % ,Satisfactory
+289,22,Initial Contact,43.13%,-2.3 (Inaccurate ),17.33 (Accurate ),111.15 (Accurate ),20.71 (Accurate ),75.0 % ,Good
+290,22,Initial Contact,43.16%,-0.87 (Inaccurate ),14.51 (Accurate ),121.06 (Accurate ),14.61 (Inaccurate ),50.0 % ,Satisfactory
+291,22,Initial Contact,43.36%,1.43 (Inaccurate ),24.37 (Accurate ),19.28 (Accurate ),13.64 (Inaccurate ),50.0 % ,Satisfactory
+292,22,Initial Contact,43.38%,2.89 (Inaccurate ),22.77 (Accurate ),72.7 (Inaccurate ),5.05 (Inaccurate ),25.0 % ,Should Improve
+293,22,Initial Contact,43.58%,5.45 (Accurate ),14.58 (Accurate ),73.33 (Inaccurate ),4.21 (Inaccurate ),50.0 % ,Satisfactory
+294,22,Initial Contact,43.77%,6.32 (Accurate ),11.54 (Accurate ),66.57 (Inaccurate ),11.79 (Inaccurate ),50.0 % ,Satisfactory
+295,22,Midstance,17.76%,6.5 (Accurate ),19.48 (Accurate ),47.35 (Inaccurate ),14.17 (Accurate ),75.0 % ,Good
+296,22,Midstance,17.87%,6.56 (Accurate ),28.14 (Accurate ),27.44 (Accurate ),13.37 (Accurate ),100.0 % ,Good
+297,22,Midstance,17.98%,6.43 (Accurate ),55.75 (Inaccurate ),20.24 (Accurate ),10.91 (Accurate ),75.0 % ,Good
+298,22,Terminal Swing,22.18%,5.78 (Accurate ),117.05 (Accurate ),22.64 (Accurate ),7.23 (Accurate ),100.0 % ,Good
+299,22,Terminal Swing,22.28%,4.78 (Accurate ),132.29 (Accurate ),7.04 (Accurate ),0.26 (Inaccurate ),75.0 % ,Good
+300,22,Terminal Swing,22.37%,3.24 (Inaccurate ),136.33 (Inaccurate ),10.1 (Accurate ),10.72 (Accurate ),50.0 % ,Satisfactory
+301,22,Terminal Swing,22.47%,2.8 (Inaccurate ),125.49 (Accurate ),44.94 (Accurate ),17.55 (Accurate ),75.0 % ,Good
+302,23,Midstance,18.18%,1.05 (Inaccurate ),108.19 (Inaccurate ),17.11 (Accurate ),35.04 (Accurate ),50.0 % ,Satisfactory
+303,23,Initial Contact,43.79%,0.15 (Inaccurate ),56.17 (Inaccurate ),35.26 (Accurate ),26.74 (Accurate ),50.0 % ,Satisfactory
+304,23,Initial Contact,43.81%,-0.38 (Inaccurate ),43.33 (Inaccurate ),31.57 (Accurate ),39.98 (Accurate ),50.0 % ,Satisfactory
+305,23,Initial Contact,43.83%,-0.94 (Inaccurate ),25.45 (Accurate ),54.08 (Inaccurate ),33.24 (Accurate ),50.0 % ,Satisfactory
+306,23,Initial Contact,43.85%,-1.02 (Inaccurate ),17.23 (Accurate ),93.57 (Inaccurate ),27.62 (Accurate ),50.0 % ,Satisfactory
+307,23,Initial Contact,43.87%,-1.31 (Inaccurate ),17.19 (Accurate ),111.55 (Accurate ),23.31 (Accurate ),75.0 % ,Good
+308,23,Initial Contact,43.89%,-0.59 (Inaccurate ),20.23 (Accurate ),119.4 (Accurate ),20.09 (Accurate ),75.0 % ,Good
+309,23,Midstance,18.26%,0.98 (Inaccurate ),75.91 (Inaccurate ),12.25 (Accurate ),16.96 (Accurate ),50.0 % ,Satisfactory
+310,23,Initial Contact,43.93%,3.55 (Inaccurate ),28.47 (Accurate ),99.71 (Inaccurate ),8.63 (Inaccurate ),25.0 % ,Should Improve
+311,23,Initial Contact,43.95%,5.9 (Accurate ),20.23 (Accurate ),82.07 (Inaccurate ),1.68 (Inaccurate ),50.0 % ,Satisfactory
+312,23,Initial Contact,44.14%,6.82 (Accurate ),11.95 (Accurate ),70.38 (Inaccurate ),8.29 (Inaccurate ),50.0 % ,Satisfactory
+313,23,Initial Contact,44.32%,5.85 (Accurate ),40.93 (Inaccurate ),7.85 (Accurate ),49.9 (Accurate ),75.0 % ,Good
+314,23,Midstance,18.28%,5.5 (Accurate ),18.26 (Accurate ),16.99 (Accurate ),13.58 (Accurate ),100.0 % ,Good
+315,23,Terminal Swing,22.1%,5.41 (Accurate ),73.79 (Inaccurate ),19.17 (Accurate ),17.23 (Accurate ),75.0 % ,Good
+316,23,Terminal Swing,22.19%,5.18 (Accurate ),117.91 (Accurate ),22.17 (Accurate ),7.93 (Accurate ),100.0 % ,Good
+317,24,Midstance,18.27%,4.86 (Accurate ),81.72 (Inaccurate ),26.48 (Accurate ),7.22 (Inaccurate ),50.0 % ,Satisfactory
+318,24,Terminal Swing,22.2%,4.28 (Accurate ),133.65 (Accurate ),14.16 (Accurate ),12.45 (Accurate ),100.0 % ,Good
+319,24,Terminal Swing,22.29%,2.78 (Inaccurate ),129.1 (Accurate ),14.71 (Accurate ),21.48 (Accurate ),75.0 % ,Good
+320,25,Terminal Stance,15.24%,1.27 (Inaccurate ),88.84 (Inaccurate ),11.8 (Accurate ),37.49 (Accurate ),50.0 % ,Satisfactory
+321,25,Initial Contact,44.62%,0.5 (Inaccurate ),63.87 (Inaccurate ),9.63 (Accurate ),47.43 (Accurate ),50.0 % ,Satisfactory
+322,25,Initial Contact,44.64%,-0.41 (Inaccurate ),49.14 (Inaccurate ),29.56 (Accurate ),45.41 (Accurate ),50.0 % ,Satisfactory
+323,25,Initial Contact,44.65%,-0.42 (Inaccurate ),40.15 (Inaccurate ),4.71 (Inaccurate ),37.35 (Accurate ),25.0 % ,Should Improve
+324,25,Terminal Swing,22.1%,0.02 (Inaccurate ),90.47 (Inaccurate ),8.61 (Accurate ),13.15 (Accurate ),50.0 % ,Satisfactory
+325,26,Initial Contact,44.69%,-0.03 (Inaccurate ),10.0 (Accurate ),118.52 (Accurate ),17.84 (Accurate ),75.0 % ,Good
+326,26,Initial Contact,44.7%,0.76 (Inaccurate ),19.97 (Accurate ),45.6 (Inaccurate ),18.07 (Accurate ),50.0 % ,Satisfactory
+327,26,Initial Contact,44.72%,2.73 (Inaccurate ),26.38 (Accurate ),26.83 (Accurate ),15.82 (Accurate ),75.0 % ,Good
+328,26,Initial Contact,44.74%,5.35 (Accurate ),21.94 (Accurate ),92.08 (Inaccurate ),6.38 (Inaccurate ),50.0 % ,Satisfactory
+329,26,Initial Contact,44.75%,7.77 (Accurate ),16.22 (Accurate ),85.35 (Inaccurate ),1.68 (Inaccurate ),50.0 % ,Satisfactory
+330,26,Midstance,18.31%,9.28 (Accurate ),26.82 (Accurate ),59.32 (Inaccurate ),2.98 (Inaccurate ),50.0 % ,Satisfactory
+331,26,Midstance,18.4%,8.6 (Accurate ),34.92 (Accurate ),39.1 (Accurate ),9.64 (Inaccurate ),75.0 % ,Good
+332,26,Terminal Swing,21.87%,7.92 (Accurate ),80.97 (Inaccurate ),20.06 (Accurate ),9.22 (Accurate ),75.0 % ,Good
+333,26,Terminal Swing,21.95%,8.11 (Accurate ),112.96 (Accurate ),21.3 (Accurate ),6.73 (Accurate ),100.0 % ,Good
+334,26,Terminal Swing,22.04%,7.98 (Accurate ),129.79 (Accurate ),25.99 (Accurate ),2.95 (Inaccurate ),75.0 % ,Good
+335,26,Terminal Swing,22.12%,6.98 (Accurate ),130.07 (Accurate ),27.32 (Accurate ),17.78 (Accurate ),100.0 % ,Good
+336,26,Terminal Swing,22.21%,5.32 (Accurate ),143.57 (Inaccurate ),23.23 (Accurate ),18.83 (Accurate ),75.0 % ,Good
+337,27,Terminal Stance,14.91%,3.58 (Inaccurate ),102.81 (Inaccurate ),14.34 (Accurate ),31.61 (Accurate ),50.0 % ,Satisfactory
+338,27,Terminal Stance,15.02%,2.23 (Inaccurate ),70.42 (Accurate ),11.01 (Accurate ),42.2 (Accurate ),75.0 % ,Good
+339,27,Initial Contact,44.76%,0.52 (Inaccurate ),53.01 (Inaccurate ),19.48 (Accurate ),44.85 (Accurate ),50.0 % ,Satisfactory
+340,27,Initial Contact,44.78%,0.04 (Inaccurate ),33.02 (Accurate ),38.13 (Accurate ),38.01 (Accurate ),75.0 % ,Good
+341,27,Initial Contact,44.79%,-0.32 (Inaccurate ),20.67 (Accurate ),72.64 (Inaccurate ),32.19 (Accurate ),50.0 % ,Satisfactory
+342,27,Initial Contact,44.81%,0.13 (Inaccurate ),22.22 (Accurate ),109.52 (Accurate ),30.3 (Accurate ),75.0 % ,Good
+343,27,Initial Contact,44.82%,0.7 (Inaccurate ),26.29 (Accurate ),131.73 (Accurate ),27.03 (Accurate ),75.0 % ,Good
+344,27,Initial Contact,44.84%,1.96 (Inaccurate ),22.28 (Accurate ),96.56 (Accurate ),17.81 (Accurate ),75.0 % ,Good
+345,27,Initial Contact,44.85%,4.92 (Accurate ),23.11 (Accurate ),91.9 (Inaccurate ),11.87 (Inaccurate ),50.0 % ,Satisfactory
+346,27,Initial Contact,44.87%,7.3 (Accurate ),15.95 (Accurate ),83.23 (Inaccurate ),2.87 (Inaccurate ),50.0 % ,Satisfactory
+347,27,Initial Contact,45.03%,7.65 (Accurate ),7.9 (Accurate ),64.31 (Inaccurate ),6.34 (Inaccurate ),50.0 % ,Satisfactory
+348,27,Midstance,18.22%,7.23 (Accurate ),20.14 (Accurate ),46.49 (Inaccurate ),9.7 (Inaccurate ),50.0 % ,Satisfactory
+349,27,Midstance,18.31%,7.11 (Accurate ),47.87 (Inaccurate ),25.94 (Accurate ),8.33 (Inaccurate ),50.0 % ,Satisfactory
+350,27,Terminal Swing,21.88%,6.93 (Accurate ),82.59 (Inaccurate ),20.1 (Accurate ),6.49 (Accurate ),75.0 % ,Good
+351,27,Terminal Swing,21.97%,6.31 (Accurate ),112.82 (Accurate ),18.87 (Accurate ),2.87 (Inaccurate ),75.0 % ,Good
+352,27,Terminal Swing,22.05%,6.15 (Accurate ),127.14 (Accurate ),10.69 (Accurate ),8.39 (Accurate ),100.0 % ,Good
+353,27,Terminal Swing,22.13%,5.32 (Accurate ),139.6 (Inaccurate ),12.01 (Accurate ),16.4 (Accurate ),75.0 % ,Good
+354,27,Terminal Swing,22.21%,4.09 (Accurate ),132.61 (Accurate ),19.29 (Accurate ),28.31 (Accurate ),100.0 % ,Good
+355,28,Terminal Stance,14.71%,2.98 (Inaccurate ),78.81 (Inaccurate ),15.95 (Accurate ),42.02 (Accurate ),50.0 % ,Satisfactory
+356,28,Initial Contact,45.3%,0.94 (Inaccurate ),62.74 (Inaccurate ),14.25 (Accurate ),50.46 (Accurate ),50.0 % ,Satisfactory
+357,28,Initial Contact,45.31%,-0.03 (Inaccurate ),46.64 (Inaccurate ),20.87 (Accurate ),48.19 (Accurate ),50.0 % ,Satisfactory
+358,28,Initial Contact,45.33%,-0.44 (Inaccurate ),31.45 (Accurate ),49.91 (Inaccurate ),42.26 (Accurate ),50.0 % ,Satisfactory
+359,28,Initial Contact,45.34%,-1.05 (Inaccurate ),23.26 (Accurate ),90.32 (Inaccurate ),33.24 (Accurate ),50.0 % ,Satisfactory
+360,28,Initial Contact,45.35%,-0.62 (Inaccurate ),21.9 (Accurate ),120.47 (Accurate ),27.02 (Accurate ),75.0 % ,Good
+361,28,Initial Contact,45.37%,0.44 (Inaccurate ),22.28 (Accurate ),127.33 (Accurate ),22.32 (Accurate ),75.0 % ,Good
+362,28,Initial Contact,45.38%,3.26 (Inaccurate ),28.36 (Accurate ),86.57 (Inaccurate ),19.41 (Accurate ),50.0 % ,Satisfactory
+363,28,Initial Contact,45.39%,5.29 (Accurate ),18.63 (Accurate ),89.05 (Inaccurate ),7.38 (Inaccurate ),50.0 % ,Satisfactory
+364,28,Initial Contact,45.4%,6.88 (Accurate ),16.25 (Accurate ),74.74 (Accurate ),0.4 (Inaccurate ),75.0 % ,Good
+365,28,Midstance,18.06%,6.36 (Accurate ),6.49 (Accurate ),59.51 (Inaccurate ),10.81 (Accurate ),75.0 % ,Good
+366,28,Midstance,18.14%,6.75 (Accurate ),25.94 (Accurate ),35.6 (Accurate ),11.36 (Accurate ),100.0 % ,Good
+367,28,Midstance,18.23%,5.63 (Accurate ),57.06 (Inaccurate ),27.76 (Accurate ),10.25 (Accurate ),75.0 % ,Good
+368,28,Terminal Swing,21.9%,5.83 (Accurate ),91.56 (Inaccurate ),18.25 (Accurate ),6.05 (Accurate ),75.0 % ,Good
+369,28,Terminal Swing,21.98%,5.3 (Accurate ),117.87 (Accurate ),17.63 (Accurate ),1.0 (Inaccurate ),75.0 % ,Good
+370,28,Terminal Swing,22.05%,4.74 (Accurate ),99.95 (Accurate ),1.26 (Accurate ),11.69 (Accurate ),100.0 % ,Good
+371,28,Terminal Swing,22.13%,4.54 (Accurate ),129.11 (Accurate ),17.91 (Accurate ),22.36 (Accurate ),100.0 % ,Good
+372,29,Terminal Stance,14.44%,2.56 (Inaccurate ),35.9 (Accurate ),10.93 (Accurate ),13.42 (Inaccurate ),50.0 % ,Satisfactory
+373,29,Initial Contact,45.65%,1.96 (Inaccurate ),56.01 (Inaccurate ),11.68 (Accurate ),47.19 (Accurate ),50.0 % ,Satisfactory
+374,29,Initial Contact,45.8%,1.33 (Inaccurate ),35.71 (Accurate ),14.31 (Accurate ),22.26 (Accurate ),75.0 % ,Good
+375,29,Initial Contact,45.81%,0.22 (Inaccurate ),34.45 (Accurate ),28.33 (Accurate ),41.43 (Accurate ),75.0 % ,Good
+376,29,Initial Contact,45.82%,-0.4 (Inaccurate ),21.8 (Accurate ),59.87 (Inaccurate ),34.43 (Accurate ),50.0 % ,Satisfactory
+377,29,Initial Contact,45.83%,-0.13 (Inaccurate ),20.11 (Accurate ),94.14 (Inaccurate ),30.45 (Accurate ),50.0 % ,Satisfactory
+378,29,Initial Contact,45.84%,-0.37 (Inaccurate ),20.34 (Accurate ),103.79 (Accurate ),24.21 (Accurate ),75.0 % ,Good
+379,29,Initial Contact,45.86%,1.39 (Inaccurate ),21.06 (Accurate ),116.59 (Accurate ),19.15 (Accurate ),75.0 % ,Good
+380,29,Initial Contact,45.87%,4.2 (Accurate ),34.73 (Accurate ),46.26 (Accurate ),22.18 (Accurate ),100.0 % ,Good
+381,29,Initial Contact,45.88%,6.49 (Accurate ),17.33 (Accurate ),74.39 (Accurate ),6.43 (Inaccurate ),75.0 % ,Good
+382,29,Initial Contact,46.02%,6.78 (Accurate ),13.08 (Accurate ),71.69 (Inaccurate ),1.64 (Inaccurate ),50.0 % ,Satisfactory
+383,29,Initial Contact,46.16%,6.88 (Accurate ),9.07 (Accurate ),54.27 (Inaccurate ),9.41 (Inaccurate ),50.0 % ,Satisfactory
+384,29,Midstance,17.81%,6.16 (Accurate ),31.59 (Accurate ),28.7 (Accurate ),9.72 (Inaccurate ),75.0 % ,Good
+385,29,Midstance,17.89%,5.93 (Accurate ),68.85 (Inaccurate ),19.45 (Accurate ),7.45 (Inaccurate ),50.0 % ,Satisfactory
+386,29,Terminal Swing,21.78%,5.84 (Accurate ),89.85 (Inaccurate ),23.49 (Accurate ),3.06 (Inaccurate ),50.0 % ,Satisfactory
+387,29,Terminal Swing,21.86%,4.45 (Accurate ),94.58 (Inaccurate ),10.94 (Accurate ),1.03 (Inaccurate ),50.0 % ,Satisfactory
+388,29,Terminal Swing,21.93%,3.55 (Inaccurate ),110.21 (Accurate ),8.87 (Accurate ),11.94 (Accurate ),75.0 % ,Good
+389,29,Terminal Swing,22.01%,2.68 (Inaccurate ),122.83 (Accurate ),17.08 (Accurate ),17.98 (Accurate ),75.0 % ,Good
+390,30,Terminal Stance,14.16%,1.99 (Inaccurate ),87.5 (Inaccurate ),13.29 (Accurate ),30.38 (Accurate ),50.0 % ,Satisfactory
+391,30,Terminal Stance,14.25%,0.74 (Inaccurate ),73.54 (Accurate ),12.87 (Accurate ),44.98 (Accurate ),75.0 % ,Good
+392,30,Initial Contact,46.38%,0.14 (Inaccurate ),58.33 (Inaccurate ),10.88 (Accurate ),49.67 (Accurate ),50.0 % ,Satisfactory
+393,30,Initial Contact,46.39%,-0.39 (Inaccurate ),41.64 (Inaccurate ),27.03 (Accurate ),44.17 (Accurate ),50.0 % ,Satisfactory
+394,30,Initial Contact,46.4%,0.28 (Inaccurate ),26.94 (Accurate ),60.1 (Inaccurate ),38.34 (Accurate ),50.0 % ,Satisfactory
+395,30,Initial Contact,46.41%,-0.08 (Inaccurate ),22.73 (Accurate ),87.25 (Inaccurate ),32.22 (Accurate ),50.0 % ,Satisfactory
+396,30,Initial Contact,46.42%,0.3 (Inaccurate ),24.45 (Accurate ),112.57 (Accurate ),28.72 (Accurate ),75.0 % ,Good
+397,30,Initial Contact,46.43%,1.36 (Inaccurate ),7.19 (Accurate ),120.13 (Accurate ),17.17 (Accurate ),75.0 % ,Good
+398,30,Initial Contact,46.44%,3.0 (Inaccurate ),27.51 (Accurate ),124.73 (Accurate ),17.63 (Accurate ),75.0 % ,Good
+399,30,Initial Contact,46.45%,6.41 (Accurate ),22.93 (Accurate ),82.75 (Inaccurate ),10.68 (Inaccurate ),50.0 % ,Satisfactory
+400,30,Initial Contact,46.46%,7.71 (Accurate ),18.02 (Accurate ),71.42 (Accurate ),1.43 (Inaccurate ),75.0 % ,Good
+401,30,Initial Contact,46.59%,7.9 (Accurate ),7.17 (Accurate ),56.26 (Inaccurate ),8.38 (Inaccurate ),50.0 % ,Satisfactory
+402,30,Initial Contact,46.73%,8.3 (Accurate ),15.42 (Accurate ),36.15 (Accurate ),11.19 (Inaccurate ),75.0 % ,Good
+403,30,Midstance,17.46%,7.68 (Accurate ),43.06 (Accurate ),19.89 (Accurate ),12.56 (Accurate ),100.0 % ,Good
+404,30,Terminal Swing,21.8%,7.6 (Accurate ),81.0 (Inaccurate ),13.26 (Accurate ),8.1 (Accurate ),75.0 % ,Good
+405,30,Terminal Swing,21.88%,7.75 (Accurate ),110.91 (Accurate ),15.98 (Accurate ),4.17 (Inaccurate ),75.0 % ,Good
+406,31,Initial Contact,46.76%,6.37 (Accurate ),10.97 (Accurate ),56.07 (Inaccurate ),13.68 (Inaccurate ),50.0 % ,Satisfactory
+407,31,Terminal Swing,21.89%,5.56 (Accurate ),158.62 (Inaccurate ),9.04 (Accurate ),9.03 (Accurate ),75.0 % ,Good
+408,31,Terminal Swing,21.96%,5.39 (Accurate ),116.84 (Accurate ),13.21 (Accurate ),16.14 (Accurate ),100.0 % ,Good
+409,32,Midstance,17.45%,4.25 (Accurate ),85.39 (Inaccurate ),11.62 (Accurate ),27.79 (Accurate ),75.0 % ,Good
+410,32,Terminal Stance,13.95%,3.77 (Inaccurate ),64.06 (Accurate ),11.61 (Accurate ),39.11 (Accurate ),75.0 % ,Good
+411,32,Initial Contact,46.92%,3.37 (Inaccurate ),47.72 (Inaccurate ),14.71 (Accurate ),40.71 (Accurate ),50.0 % ,Satisfactory
+412,32,Initial Contact,46.93%,3.01 (Inaccurate ),28.96 (Accurate ),43.02 (Accurate ),34.22 (Accurate ),75.0 % ,Good
+413,32,Initial Contact,46.94%,2.55 (Inaccurate ),17.79 (Accurate ),83.62 (Inaccurate ),28.67 (Accurate ),50.0 % ,Satisfactory
+414,32,Initial Contact,46.94%,2.39 (Inaccurate ),14.53 (Accurate ),115.42 (Accurate ),23.56 (Accurate ),75.0 % ,Good
+415,32,Initial Contact,46.95%,2.43 (Inaccurate ),19.63 (Accurate ),132.16 (Accurate ),22.13 (Accurate ),75.0 % ,Good
+416,32,Initial Contact,46.96%,3.82 (Inaccurate ),17.22 (Accurate ),134.65 (Accurate ),14.35 (Inaccurate ),50.0 % ,Satisfactory
+417,32,Initial Contact,46.97%,6.8 (Accurate ),26.84 (Accurate ),76.11 (Inaccurate ),14.77 (Inaccurate ),50.0 % ,Satisfactory
+418,32,Initial Contact,46.97%,7.89 (Accurate ),16.4 (Accurate ),94.58 (Inaccurate ),3.19 (Inaccurate ),50.0 % ,Satisfactory
+419,32,Initial Contact,47.1%,8.81 (Accurate ),12.95 (Accurate ),71.75 (Inaccurate ),4.52 (Inaccurate ),50.0 % ,Satisfactory
+420,32,Initial Contact,47.23%,10.21 (Accurate ),13.47 (Accurate ),54.24 (Inaccurate ),9.78 (Inaccurate ),50.0 % ,Satisfactory
+421,32,Midstance,17.43%,9.08 (Accurate ),35.95 (Accurate ),34.07 (Accurate ),12.09 (Accurate ),100.0 % ,Good
+422,32,Terminal Swing,21.82%,8.78 (Accurate ),75.07 (Inaccurate ),17.95 (Accurate ),10.26 (Accurate ),75.0 % ,Good
+423,32,Terminal Swing,21.89%,8.63 (Accurate ),104.35 (Accurate ),14.1 (Accurate ),7.53 (Accurate ),100.0 % ,Good
+424,32,Terminal Swing,21.96%,8.15 (Accurate ),131.11 (Accurate ),16.12 (Accurate ),4.76 (Inaccurate ),75.0 % ,Good
+425,32,Terminal Swing,22.02%,7.35 (Accurate ),126.03 (Accurate ),8.22 (Accurate ),11.08 (Accurate ),100.0 % ,Good
+426,32,Terminal Swing,22.09%,5.09 (Accurate ),136.23 (Inaccurate ),16.07 (Accurate ),17.37 (Accurate ),75.0 % ,Good
+427,32,Terminal Swing,22.16%,3.35 (Inaccurate ),113.12 (Accurate ),11.84 (Accurate ),25.0 (Accurate ),75.0 % ,Good
+428,33,Terminal Stance,13.48%,2.08 (Inaccurate ),76.07 (Inaccurate ),9.86 (Accurate ),39.93 (Accurate ),50.0 % ,Satisfactory
+429,33,Initial Contact,47.41%,0.78 (Inaccurate ),55.45 (Inaccurate ),14.07 (Accurate ),42.44 (Accurate ),50.0 % ,Satisfactory
+430,33,Initial Contact,47.41%,0.63 (Inaccurate ),36.63 (Accurate ),39.95 (Accurate ),37.61 (Accurate ),75.0 % ,Good
+431,33,Initial Contact,47.42%,0.32 (Inaccurate ),22.53 (Accurate ),74.93 (Inaccurate ),31.75 (Accurate ),50.0 % ,Satisfactory
+432,33,Initial Contact,47.42%,0.85 (Inaccurate ),15.1 (Accurate ),110.9 (Accurate ),26.01 (Accurate ),75.0 % ,Good
+433,33,Initial Contact,47.43%,1.43 (Inaccurate ),17.18 (Accurate ),131.36 (Accurate ),22.65 (Accurate ),75.0 % ,Good
+434,33,Initial Contact,47.44%,2.65 (Inaccurate ),14.41 (Accurate ),126.39 (Accurate ),17.0 (Accurate ),75.0 % ,Good
+435,33,Initial Contact,47.44%,5.14 (Accurate ),27.16 (Accurate ),49.08 (Inaccurate ),15.32 (Accurate ),75.0 % ,Good
+436,33,Initial Contact,47.45%,7.31 (Accurate ),16.23 (Accurate ),77.58 (Inaccurate ),3.83 (Inaccurate ),50.0 % ,Satisfactory
+437,33,Initial Contact,47.57%,8.24 (Accurate ),19.63 (Accurate ),75.92 (Inaccurate ),0.84 (Inaccurate ),50.0 % ,Satisfactory
+438,33,Initial Contact,47.69%,7.96 (Accurate ),7.56 (Accurate ),54.56 (Inaccurate ),12.78 (Inaccurate ),50.0 % ,Satisfactory
+439,33,Midstance,17.17%,8.02 (Accurate ),31.55 (Accurate ),38.48 (Accurate ),11.92 (Accurate ),100.0 % ,Good
+440,33,Midstance,17.24%,8.05 (Accurate ),23.43 (Accurate ),24.78 (Accurate ),10.66 (Accurate ),100.0 % ,Good
+441,33,Terminal Swing,22.02%,8.51 (Accurate ),99.57 (Accurate ),15.47 (Accurate ),10.97 (Accurate ),100.0 % ,Good
+442,33,Terminal Swing,22.08%,7.06 (Accurate ),121.68 (Accurate ),18.45 (Accurate ),6.44 (Accurate ),100.0 % ,Good
+443,34,Initial Contact,47.72%,5.99 (Accurate ),9.05 (Accurate ),26.18 (Accurate ),13.63 (Inaccurate ),75.0 % ,Good
+444,34,Terminal Swing,22.1%,5.51 (Accurate ),132.55 (Accurate ),14.72 (Accurate ),13.93 (Accurate ),100.0 % ,Good
+445,34,Terminal Swing,22.16%,4.41 (Accurate ),122.24 (Accurate ),17.02 (Accurate ),22.35 (Accurate ),100.0 % ,Good
+446,35,Midstance,17.23%,3.95 (Inaccurate ),94.16 (Inaccurate ),14.08 (Accurate ),34.17 (Accurate ),50.0 % ,Satisfactory
+447,35,Initial Contact,47.85%,3.3 (Inaccurate ),61.18 (Inaccurate ),11.75 (Accurate ),43.42 (Accurate ),50.0 % ,Satisfactory
+448,35,Initial Contact,47.86%,1.84 (Inaccurate ),42.8 (Inaccurate ),23.02 (Accurate ),40.7 (Accurate ),50.0 % ,Satisfactory
+449,35,Initial Contact,47.86%,1.95 (Inaccurate ),28.07 (Accurate ),53.46 (Inaccurate ),37.34 (Accurate ),50.0 % ,Satisfactory
+450,35,Initial Contact,47.87%,2.35 (Inaccurate ),16.67 (Accurate ),91.9 (Inaccurate ),29.73 (Accurate ),50.0 % ,Satisfactory
+451,35,Initial Contact,47.87%,2.65 (Inaccurate ),16.16 (Accurate ),122.6 (Accurate ),25.42 (Accurate ),75.0 % ,Good
+452,35,Initial Contact,47.87%,2.62 (Inaccurate ),18.05 (Accurate ),136.9 (Inaccurate ),22.08 (Accurate ),50.0 % ,Satisfactory
