@@ -6,9 +6,9 @@ import os
 import glob
 import datetime
 
-from calculate_angles3 import calculate_angle, calculate_trunk_lean, get_text_color, evaluate_angle, \
+from Project.calculate_angles3 import calculate_angle, calculate_trunk_lean, get_text_color, evaluate_angle, \
     count_conditions, get_point, evaluate_each_body
-from running_phase2 import RunningGaitCycleCounter
+from Project.running_phase2 import RunningGaitCycleCounter
 
 
 def process_video(video_path, output_dir="data"):
